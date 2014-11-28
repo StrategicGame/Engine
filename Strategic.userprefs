@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Script\Model\Resource\ResourceBox.cs">
+    <Files>
+      <File FileName="Assets\Game\Script\Model\Building\BuildingData.cs" Line="23" Column="2" />
+      <File FileName="Assets\Game\Script\Model\Building\Extended\MineData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Script\Model\Building\Extended\TownHall.cs" Line="5" Column="22" />
+      <File FileName="Assets\Game\Data\Resources\Building.xml" Line="6" Column="1" />
+      <File FileName="Assets\Game\Script\Controller\View\ViewManager.cs" Line="25" Column="3" />
+      <File FileName="Assets\Game\Script\Model\Resource\ResourceBox.cs" Line="68" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

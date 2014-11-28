@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ArrayOfBuildingData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <BuildingData>
+    <kind>HOME_TOWN</kind>
+    <name>Home Town</name>
+    <description>The base building for user.</description>
+    <MAX_HEALTHES>
+    	<int>100</int>
+    	<int>200</int>
+    </MAX_HEALTHES>
+    <spriteNames>
+    	<string>Home-Town0</string>
+    	<string>Home-Town1</string>
+    </spriteNames>
+    <level>0</level>
+    <resourceCosts>
+    	<ResourcePack kind="Gold" amount="1000"/>
+    	<ResourcePack kind="Exir" amount="1000"/>
+    </resourceCosts>
+    <upgradeCostCoff>
+    	<int>1</int>
+    	<int>2</int>
+    </upgradeCostCoff>
+    <buildTime>
+    	<int>10</int>
+    	<int>20</int>
+    </buildTime>
+</BuildingData>
+
+</ArrayOfBuildingData>
